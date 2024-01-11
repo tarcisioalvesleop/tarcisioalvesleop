@@ -24,6 +24,7 @@
 ##
 
 <div>
+<h3> Você também me encontra em: </h3>
 <!--
 <a href="https://www.youtube.com/channel/UC44Y7HUcjOu200dbBYjSjjQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style-for-the-badge&logo=youtube&logoColor=white" target"_blank"></a>
 --!>
