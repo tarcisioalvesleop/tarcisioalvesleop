@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Tarcísio Alves Bertolino 
 
 - 🔭 Hoje graduando em Engenharia de Computação
+- 📚 Estudando PHP ...
 - 📧 Contacte no email: tarcisioalvesleop@hotmail.com
 - 😄 Pronouns: ele/dele
 
